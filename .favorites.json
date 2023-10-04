@@ -1,0 +1,74 @@
+[
+    {
+        "type": "Group",
+        "name": "troubled",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "LiBJfV8wqDjhINE4"
+    },
+    {
+        "type": "Group",
+        "name": "arrays",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "o3adxHCmqNMZOtur"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/topKFrequent.py",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/topKFrequent.py",
+        "id": "kn3CaTfVd6OH7pwL"
+    },
+    {
+        "type": "Group",
+        "name": "2-pointers",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "gtUvs6VSlnzGwdBy"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/threeSum.py",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/threeSum.py",
+        "id": "Kyb3fCNL8PBaEWJY"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/numSubseq.py",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/numSubseq.py",
+        "id": "nfK9qNFEOY72k0ob"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/threeSumMulti.py",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/threeSumMulti.py",
+        "id": "jvez7Zqf35dBW16S"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/trap.py",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/trap.py",
+        "id": "xv5yka7lYgiAJowz"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/getMinSwaps.py",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/getMinSwaps.py",
+        "id": "rsYVzblaXt3GCu0m"
+    }
+]

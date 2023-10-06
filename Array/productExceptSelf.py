@@ -1,3 +1,5 @@
+# we re-used post fix space as container to  store result
+
 from typing import List
 
 class Solution:
@@ -22,5 +24,3 @@ class Solution:
         postfix[i] = prod
 
         return postfix
-         
-# we re-used post fix space as container to  store result

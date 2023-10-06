@@ -78,5 +78,37 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Two-Pointer/rearrangeArray.py",
         "id": "Uw98yemOPlE0nuIc"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/leastBricks.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/leastBricks.js",
+        "id": "MiSsYnQ3dAPrHc8T"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/findLengthOfShortestSubarray.js",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/findLengthOfShortestSubarray.js",
+        "id": "K3bJSlXk62i0QwUn"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/circularArrayLoop.js",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/circularArrayLoop.js",
+        "id": "CW6JDfLr53ZBy0IN"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Two-Pointer/findDuplicate.py",
+        "parent_id": "gtUvs6VSlnzGwdBy",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Two-Pointer/findDuplicate.py",
+        "id": "rNx0o3yDpWOU7bgA"
     }
 ]

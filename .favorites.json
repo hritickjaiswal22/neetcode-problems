@@ -126,5 +126,53 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Two-Pointer/findRadius.js",
         "id": "YPM8pzG0fFtav2Uc"
+    },
+    {
+        "type": "Group",
+        "name": "stacks",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "9GZOtIU4hQAvqapY"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Stack/minStack.js",
+        "parent_id": "9GZOtIU4hQAvqapY",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Stack/minStack.js",
+        "id": "SGbrUL6upY7WmCFv"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Stack/validateStackSequences.js",
+        "parent_id": "9GZOtIU4hQAvqapY",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Stack/validateStackSequences.js",
+        "id": "7ajfhWIMHpq83iEe"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Stack/monotonicStack.js",
+        "parent_id": "9GZOtIU4hQAvqapY",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Stack/monotonicStack.js",
+        "id": "LFVn6pmN0A4zvwIH"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Stack/stockSpan.js",
+        "parent_id": "9GZOtIU4hQAvqapY",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Stack/stockSpan.js",
+        "id": "sXlWzLoQ2vjrebaH"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Stack/carFleet.js",
+        "parent_id": "9GZOtIU4hQAvqapY",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Stack/carFleet.js",
+        "id": "SxDWh0TqVjFILEf9"
     }
 ]

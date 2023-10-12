@@ -1,0 +1,3 @@
+// TRYAGAIN
+
+function generateParenthesis(n) {}

@@ -182,5 +182,37 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Stack/find132pattern.JS",
         "id": "9uXpJSnocR1xTWis"
+    },
+    {
+        "type": "Group",
+        "name": "binary-search",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "YkJIyENGxodA0PiX"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Binary-Search/searchMatrix.js",
+        "parent_id": "YkJIyENGxodA0PiX",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Binary-Search/searchMatrix.js",
+        "id": "VeIwh1D076bXWEGm"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Binary-Search/searchRotated2.js",
+        "parent_id": "YkJIyENGxodA0PiX",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Binary-Search/searchRotated2.js",
+        "id": "NUmVhiHub3BOSsWC"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Binary-Search/suggestedProducts.JS",
+        "parent_id": "YkJIyENGxodA0PiX",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Binary-Search/suggestedProducts.JS",
+        "id": "sXGhAWJifLgnQSpP"
     }
 ]

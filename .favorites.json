@@ -214,5 +214,29 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Binary-Search/suggestedProducts.JS",
         "id": "sXGhAWJifLgnQSpP"
+    },
+    {
+        "type": "Group",
+        "name": "sliding-window",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ynRi5uF4vctMZJfs"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Sliding-Window/characterReplacement.js",
+        "parent_id": "ynRi5uF4vctMZJfs",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Sliding-Window/characterReplacement.js",
+        "id": "wx8YahnHUEd6vecS"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Sliding-Window/minFlips.js",
+        "parent_id": "ynRi5uF4vctMZJfs",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Sliding-Window/minFlips.js",
+        "id": "2qRast1dWLuvJY6K"
     }
 ]

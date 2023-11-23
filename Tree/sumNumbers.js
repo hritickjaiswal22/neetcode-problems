@@ -1,0 +1,17 @@
+function sumNumbers(root) {
+  function find(node, num) {
+    num = num * 10 + node.val;
+
+    if (!node.left && !node.right) return num;
+
+    let left = 0;
+    let right = 0;
+
+    if (node.left) left = find(node.left, num);
+    if (node.right) right = find(node.right, num);
+
+    return left + right;
+  }
+
+  return find(root, 0);
+}

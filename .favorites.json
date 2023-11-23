@@ -238,5 +238,77 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Sliding-Window/minFlips.js",
         "id": "2qRast1dWLuvJY6K"
+    },
+    {
+        "type": "Group",
+        "name": "linked-list",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "rbfx5lpRAZsnTouQ"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Linked-List/LRUCache.js",
+        "parent_id": "rbfx5lpRAZsnTouQ",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Linked-List/LRUCache.js",
+        "id": "iJ4gPjrSVc0tLfFk"
+    },
+    {
+        "type": "Group",
+        "name": "tree",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "L4NUqKDW7ROtc0r1"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/isSubtree.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/isSubtree.js",
+        "id": "XL6sBfCbqF13ux2j"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/deleteNode.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/deleteNode.js",
+        "id": "neqzjyblS7iCso28"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/rightSideView.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/rightSideView.js",
+        "id": "9yAqBwnpuRfokM0D"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/minDiffInBST.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/minDiffInBST.js",
+        "id": "zCSIsO5VPrQg0R4h"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/isCompleteTree.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/isCompleteTree.js",
+        "id": "JKwuSHZb9intAo0L"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/widthOfBinaryTree.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/widthOfBinaryTree.js",
+        "id": "7FeKYrcSCWjg0mJR"
     }
 ]

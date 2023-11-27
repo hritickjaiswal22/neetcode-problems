@@ -310,5 +310,21 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Tree/widthOfBinaryTree.js",
         "id": "7FeKYrcSCWjg0mJR"
+    },
+    {
+        "type": "Group",
+        "name": "backtracking",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "tcYhke0Snoi8W6Dv"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Backtracking/combinationSum2.js",
+        "parent_id": "tcYhke0Snoi8W6Dv",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Backtracking/combinationSum2.js",
+        "id": "gIetOAC5jh61nN3T"
     }
 ]

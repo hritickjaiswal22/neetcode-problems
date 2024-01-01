@@ -326,5 +326,69 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Backtracking/combinationSum2.js",
         "id": "gIetOAC5jh61nN3T"
+    },
+    {
+        "type": "Group",
+        "name": "graphs",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "FB6Ydu3ICacrtKjl"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Graphs/islandPerimeter.js",
+        "parent_id": "FB6Ydu3ICacrtKjl",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Graphs/islandPerimeter.js",
+        "id": "bZeHTvXlK2mAgPa1"
+    },
+    {
+        "type": "Group",
+        "name": "dynamic-programming",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ajuZUFhxfIS1oA78"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/DynamicProgramming/rob2.js",
+        "parent_id": "ajuZUFhxfIS1oA78",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "DynamicProgramming/rob2.js",
+        "id": "iI7fharg05SL2jxU"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/DynamicProgramming/maxProduct.js",
+        "parent_id": "ajuZUFhxfIS1oA78",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "DynamicProgramming/maxProduct.js",
+        "id": "XmEQcrnBo4uktiSL"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/DynamicProgramming/maxSumMinProduct.js",
+        "parent_id": "ajuZUFhxfIS1oA78",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "DynamicProgramming/maxSumMinProduct.js",
+        "id": "6ajEn5wIohbzDs9x"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/DynamicProgramming/deleteAndEarn.js",
+        "parent_id": "ajuZUFhxfIS1oA78",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "DynamicProgramming/deleteAndEarn.js",
+        "id": "UqcAXjg92pdTRNrY"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/DynamicProgramming/longestIncreasingPath.js",
+        "parent_id": "ajuZUFhxfIS1oA78",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "DynamicProgramming/longestIncreasingPath.js",
+        "id": "NSP5GaJoH90b7lhq"
     }
 ]

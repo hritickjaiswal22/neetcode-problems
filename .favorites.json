@@ -390,5 +390,37 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "DynamicProgramming/longestIncreasingPath.js",
         "id": "NSP5GaJoH90b7lhq"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/rangeSumQuery.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/rangeSumQuery.js",
+        "id": "cN8Eg0OX3kJjRdfr"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/checkPossibility.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/checkPossibility.js",
+        "id": "QU6x2qVf0iyIHF1L"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/largestNumber.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/largestNumber.js",
+        "id": "046fqyHnuNcwG7dk"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/numOfMinutes.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/numOfMinutes.js",
+        "id": "ncUo9sVhxTY05d4g"
     }
 ]

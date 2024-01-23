@@ -422,5 +422,53 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "Array/numOfMinutes.js",
         "id": "ncUo9sVhxTY05d4g"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/buildTree.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/buildTree.js",
+        "id": "c3MyAG0D7XZqiWum"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/DynamicProgramming/findNumberOfLIS.js",
+        "parent_id": "ajuZUFhxfIS1oA78",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "DynamicProgramming/findNumberOfLIS.js",
+        "id": "z6Z8IDQBFfN7Wsqk"
+    },
+    {
+        "type": "Group",
+        "name": "heaps",
+        "parent_id": "LiBJfV8wqDjhINE4",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "0bkmMNeqyuvH9KCR"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/heaps/KthLargest.py",
+        "parent_id": "0bkmMNeqyuvH9KCR",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "heaps/KthLargest.py",
+        "id": "9Da5tqseO3vXEPuK"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/heaps/leastInterval.js",
+        "parent_id": "0bkmMNeqyuvH9KCR",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "heaps/leastInterval.js",
+        "id": "fzsoEqudgYc8ZNQl"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/heaps/twitter.py",
+        "parent_id": "0bkmMNeqyuvH9KCR",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "heaps/twitter.py",
+        "id": "26eaKhwdYQRmC3tj"
     }
 ]

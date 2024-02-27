@@ -1,3 +1,5 @@
+/* YOU'RE IDEA IS ABSOLUTLEY RIGHT !!!! */
+
 function hasAllCodes(s, k) {
   if (s.length < k) return false;
 

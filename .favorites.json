@@ -478,5 +478,45 @@
         "workspaceRoot": "/home/hritick/Desktop/Neetcode",
         "workspacePath": "heaps/getOrder.py",
         "id": "vD8UfQCF3IEsgAuZ"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/heaps/reorganizeString.js",
+        "parent_id": "0bkmMNeqyuvH9KCR",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "heaps/reorganizeString.js",
+        "id": "MBcrEI9nfskaWuxH"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/longestCommonPrefix.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/longestCommonPrefix.js",
+        "id": "mGnWlzsR5h0AxMbr"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/findDisappearedNumbers.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/findDisappearedNumbers.js",
+        "id": "pi3Z9Rmhxz15VPkv"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Array/minSwaps.js",
+        "parent_id": "o3adxHCmqNMZOtur",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Array/minSwaps.js",
+        "id": "XxI3JVWdRpDNKP5m"
+    },
+    {
+        "type": "File",
+        "name": "/home/hritick/Desktop/Neetcode/Tree/findDuplicateSubtrees.js",
+        "parent_id": "L4NUqKDW7ROtc0r1",
+        "workspaceRoot": "/home/hritick/Desktop/Neetcode",
+        "workspacePath": "Tree/findDuplicateSubtrees.js",
+        "id": "aDSp9sPgolVWzMue"
     }
 ]

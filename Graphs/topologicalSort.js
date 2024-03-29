@@ -1,29 +1,32 @@
-function topoSort(V, adj) {
-  const stack = [];
-  const visited = Array(V).fill(false);
-  const result = [];
+// Works only on DAGs
+// Linear ordering of vertices such that if there is an edge between u and v then U APPEARS BEFORE V IN THAT ORDERING
+// https://www.youtube.com/watch?v=5lZ0iJMrUMk&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=21
 
-  for (let i = 0; i < V; i++) {
-    if (!visited[i]) {
-      dfs(i, visited, stack, adj);
+class Solution {
+  //Function to return list containing vertices in Topological order.
+  topoSort(V, adj) {
+    const visited = Array(V).fill(false);
+    const stack = [];
+
+    for (let i = 0; i < V; i++) {
+      if (!visited[i]) {
+        this.find(i, visited, stack, adj);
+      }
     }
+
+    return stack.reverse();
   }
 
-  while (stack.length) {
-    result.push(stack.pop());
+  find(node, visited, stack, adj) {
+    visited[node] = true;
+    const neighbours = adj[node];
+
+    for (const neighbour of neighbours) {
+      if (!visited[neighbour]) {
+        this.find(neighbour, visited, stack, adj);
+      }
+    }
+
+    stack.push(node);
   }
-
-  return result;
-}
-
-function dfs(node, visited, stack, adjList) {
-  if (visited[node]) return;
-
-  visited[node] = true;
-
-  for (const i of adjList[node]) {
-    if (!visited[i]) dfs(i, visited, stack, adjList);
-  }
-
-  stack.push(node);
 }

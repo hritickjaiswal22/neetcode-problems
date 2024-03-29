@@ -5,30 +5,24 @@ class GraphNode {
   }
 }
 
-function cloneGraph(node) {
-  if (!node) return node;
-
-  const queue = [];
+var cloneGraph = function (node) {
   const hash = {};
-  const visited = {};
 
-  queue.push(node);
-  visited[node.val] = true;
+  if (!node) return node;
+  return find(node, hash);
+};
 
-  while (queue.length) {
-    const { val, neighbors } = queue.shift();
+function find(node, hash) {
+  const { val, neighbors } = node;
+  const newNode = new GraphNode(val);
 
-    if (!hash[val]) hash[val] = [];
+  hash[val] = newNode;
 
-    for (const neighbor of neighbors) {
-      hash[val].push(neighbor.val);
-
-      if (!visited[neighbor.val]) {
-        queue.push(neighbor);
-        visited[neighbor.val] = true;
-      }
-    }
+  for (const neighbor of neighbors) {
+    if (!hash[neighbor.val]) {
+      newNode.neighbors.push(find(neighbor, hash));
+    } else newNode.neighbors.push(hash[neighbor.val]);
   }
 
-  console.log(hash);
+  return newNode;
 }

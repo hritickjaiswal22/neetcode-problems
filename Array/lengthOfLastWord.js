@@ -1,3 +1,4 @@
+// Redo done
 function lengthOfLastWord(s) {
   const temp = s.trim();
 

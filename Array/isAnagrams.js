@@ -1,3 +1,4 @@
+// Redo Done
 function isAnagram(s, t) {
   const hash1 = Array(26).fill(0);
   const hash2 = Array(26).fill(0);

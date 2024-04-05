@@ -1,3 +1,4 @@
+// Redo done
 /* By sorting and finding smallest and largest we can get O(n) time in comparisson to O(n^2) */
 
 function findLexicographicallySmallest(strings) {

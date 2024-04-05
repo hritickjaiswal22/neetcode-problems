@@ -1,3 +1,4 @@
+// Redo done
 function canPlaceFlowers(flowerbed, n) {
   for (let i = 0; i < flowerbed.length; i++) {
     if (

@@ -1,41 +1,33 @@
+// Almost did it on my own
 function gridGame(grid) {
   const n = grid[0].length;
-  const sums = Array(2)
+  const prefix2d = Array(2)
     .fill()
-    .map((_) => Array(n).fill(0));
-
-  let prefix = 0;
-  let suffix = 0;
-  let max = 0;
-  let changeOverIndex = 0;
-  let result = 0;
-
-  for (let i = 0; i < n; i++) {
-    prefix += grid[0][i];
-    sums[0][i] = prefix;
-  }
-
-  for (let i = n - 1; i >= 0; i--) {
-    suffix += grid[1][i];
-    sums[1][i] = suffix;
-  }
-
-  for (let i = 0; i < n; i++) {
-    const temp = sums[0][i] + sums[1][i];
-
-    if (temp > max) {
-      max = temp;
-      changeOverIndex = i;
-    }
-  }
-
+    .map(() => Array(n).fill(0));
   let sum1 = 0;
   let sum2 = 0;
+  let result = Number.MAX_SAFE_INTEGER;
 
   for (let i = 0; i < n; i++) {
-    if (i < changeOverIndex) sum1 += grid[1][i];
-    if (i > changeOverIndex) sum2 += grid[0][i];
+    sum1 += grid[0][i];
+    prefix2d[0][i] = sum1;
+
+    sum2 += grid[1][i];
+    prefix2d[1][i] = sum2;
   }
 
-  return Math.max(sum1, sum2);
+  for (let i = 0; i < n; i++) {
+    // const rob1Points =
+    //   prefix2d[0][i] +
+    //   (prefix2d[1][n - 1] - (i - 1 >= 0 ? prefix2d[1][i - 1] : 0));
+
+    const rob2Points = Math.max(
+      prefix2d[0][n - 1] - prefix2d[0][i],
+      i - 1 >= 0 ? prefix2d[1][i - 1] : 0
+    );
+
+    result = Math.min(result, rob2Points);
+  }
+
+  return result;
 }

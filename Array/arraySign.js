@@ -1,3 +1,4 @@
+// Redo done
 function arraySign(nums) {
   let negatives = 0;
 

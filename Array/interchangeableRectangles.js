@@ -1,3 +1,4 @@
+// Redo done
 function interchangeableRectangles(rectangles) {
   const hash = {};
   let result = 0;

@@ -81,5 +81,22 @@
     "https://leetcode.com/problems/optimal-partition-of-string/",
     "https://leetcode.com/problems/design-underground-system/",
     "https://leetcode.com/problems/minimum-penalty-for-a-shop/"
+  ],
+  "Two Pointers": [
+    "https://leetcode.com/problems/valid-palindrome/",
+    "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+    "https://leetcode.com/problems/merge-strings-alternately/",
+    "https://leetcode.com/problems/reverse-string/",
+    "https://leetcode.com/problems/merge-sorted-array/",
+    "https://leetcode.com/problems/move-zeroes/",
+    "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "https://leetcode.com/problems/3sum/",
+    "https://leetcode.com/problems/4sum/",
+    "https://leetcode.com/problems/container-with-most-water/",
+    "https://leetcode.com/problems/rotate-array/",
+    "https://leetcode.com/problems/boats-to-save-people/",
+    "https://leetcode.com/problems/trapping-rain-water/"
   ]
 }

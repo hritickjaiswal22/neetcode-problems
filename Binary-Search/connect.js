@@ -1,12 +1,25 @@
+// function connect(root) {
+//   function find(node, next) {
+//     if (!node) return;
+
+//     node.next = next;
+
+//     find(node.left, node.right);
+//     find(node.right, next ? next.left : null);
+//   }
+
+//   find(root, null);
+// }
+
 function connect(root) {
-  function find(node, next) {
-    if (!node) return;
+  return find(root, null);
+}
 
-    node.next = next;
+function find(node, nextNode) {
+  if (!node) return;
 
-    find(node.left, node.right);
-    find(node.right, next ? next.left : null);
-  }
+  node.next = nextNode;
 
-  find(root, null);
+  find(node.left, node.right);
+  find(node.right, nextNode ? nextNode.left : null);
 }

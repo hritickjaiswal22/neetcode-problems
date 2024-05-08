@@ -48,6 +48,13 @@ BrowserHistory.prototype.forward = function (steps) {
 };
 
 /**
+ * @return {string}
+ */
+BrowserHistory.prototype.current = function () {
+  return this.history[this.activeIndex];
+};
+
+/**
  * Your BrowserHistory object will be instantiated and called as such:
  * var obj = new BrowserHistory(homepage)
  * obj.visit(url)

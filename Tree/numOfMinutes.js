@@ -40,33 +40,35 @@
 //   return result;
 // }
 
-// I ARRIVED AT THE SAME LOGIC BUT GAVE A WRONG IMPLEMENTATION LEADING TO WRONG RESULT
-// BUT THE IDEA OR INTUTION WAS RIGHT
-function numOfMinutes(n, headID, manager, informTime) {
-  const hash = {};
-  const queue = [];
-  let result = 0;
+// // I ARRIVED AT THE SAME LOGIC BUT GAVE A WRONG IMPLEMENTATION LEADING TO WRONG RESULT
+// // BUT THE IDEA OR INTUTION WAS RIGHT
+// function numOfMinutes(n, headID, manager, informTime) {
+//   const hash = {};
+//   const queue = [];
+//   let result = 0;
 
-  for (let i = 0; i < manager.length; i++) {
-    const head = manager[i];
+//   for (let i = 0; i < manager.length; i++) {
+//     const head = manager[i];
 
-    if (hash[head]) hash[head].push(i);
-    else hash[head] = [i];
-  }
+//     if (hash[head]) hash[head].push(i);
+//     else hash[head] = [i];
+//   }
 
-  queue.push([headID, 0]);
+//   queue.push([headID, 0]);
 
-  while (queue.length) {
-    const [managerId, time] = queue.shift();
+//   while (queue.length) {
+//     const [managerId, time] = queue.shift();
 
-    result = Math.max(result, time);
+//     result = Math.max(result, time);
 
-    if (hash[managerId]) {
-      for (const employee of hash[managerId]) {
-        queue.push([employee, time + informTime[managerId]]);
-      }
-    }
-  }
+//     if (hash[managerId]) {
+//       for (const employee of hash[managerId]) {
+//         queue.push([employee, time + informTime[managerId]]);
+//       }
+//     }
+//   }
 
-  return result;
-}
+//   return result;
+// }
+
+function numOfMinutes(n, headID, manager, informTime) {}

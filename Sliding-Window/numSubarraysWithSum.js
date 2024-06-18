@@ -1,0 +1,1 @@
+function numSubarraysWithSum(nums, goal) {}
